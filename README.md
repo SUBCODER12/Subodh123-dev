@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subodh123-dev
+- 👋 Hi, I’m @SUBCODER12
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning different python packages
 - 💞️ I’m looking to collaborate on AI and stocks
